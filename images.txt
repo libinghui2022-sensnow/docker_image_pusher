@@ -1,5 +1,4 @@
-nginx
-docker.getcollate.io/openmetadata/db:1.5.0-rc2/linux-command:lasest
-image: docker.elastic.co/elasticsearch/elasticsearch:8.10.2/linux-command:lasest
-image: docker.getcollate.io/openmetadata/server:1.5.0-rc2/linux-command:lasest
-image: docker.getcollate.io/openmetadata/ingestion:1.5.0-rc2/linux-command:lasest
+docker.getcollate.io/openmetadata/db:1.5.0-rc2
+docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+docker.getcollate.io/openmetadata/server:1.5.0-rc2
+docker.getcollate.io/openmetadata/ingestion:1.5.0-rc2
